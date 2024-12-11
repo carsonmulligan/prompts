@@ -5,6 +5,42 @@ please concise in code block
 https://www.youtube.com/watch?v=jM8dCGIm6yc
 
 ```
+# Warm-Up (10-15 minutes)
+warm_up = [
+    "Arm Circles: 2 min (forward/backward)",
+    "Band Pull-Aparts: 3x15 reps",
+    "Scapular Push-Ups: 2x12-15 reps"
+]
+
+# Workout
+workout = {
+    "Overhead Press": "4x6-8 reps (Barbell, strict form)",
+    "Archer Pulls": "3x12-15 reps/arm (Single-Arm Cable Rows)",
+    "Battle Axe Swings": "3x10 reps/side (Dumbbell/Kettlebell Swings)",
+    "Yoke Carry": "3x50 meters (Farmer’s Walk with heavy dumbbells)",
+    "Rear Delt Face Pulls": "4x12-15 reps (Resistance Bands)"
+}
+
+# Finisher
+finisher = [
+    "Battle Rope Waves or Shield Punches: 30 sec on, 30 sec off x 5 rounds"
+]
+
+# Cool Down (10 minutes)
+cool_down = [
+    "Wall Angels: 2x15 reps",
+    "Cross-Body Stretch: 30 sec/arm",
+    "Overhead Tricep Stretch: 30 sec/arm",
+    "Doorway Stretch: 30 sec/side"
+]
+
+# Perform workout 2-3x per week, add mobility on off days
+
+```
+
+I practice grappling on mondays thursdays saturdays. Please give me weekly gym schedule in concise code block format to make me into effective steppe warrior 
+
+```
 # Weekly Gym Schedule for Effective Steppe Warrior
 
 weekly_schedule = {
